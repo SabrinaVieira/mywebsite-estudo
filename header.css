@@ -1,0 +1,16 @@
+.main-header{
+    background-color: rgb(44,62,80);
+    color: white;
+}
+
+.main-header .title{
+    display: inline;
+}
+
+.main-header .navigator{
+    display: inline;
+}
+
+.main-header a{
+    color: white;
+}
