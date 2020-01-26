@@ -1,0 +1,49 @@
+.portifolio {
+    padding: 10% 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center; 
+}
+
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+}
+
+.portifolio-imagens {
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.potifofio .material-icons {
+    width: 30px;
+    height: 30px;
+    color: black;
+}
+
+.portifolio .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portifolio .bar {
+    width: 30px;
+    height: 2px;
+    background-color: black;
+}
+
+.portifolio-imagens img {
+    max-width: 200px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+
+    margin: 10px 10px;
+    border-radius: 10px;
+}

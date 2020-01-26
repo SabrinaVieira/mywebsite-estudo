@@ -1,0 +1,22 @@
+.main-header{
+    background-color: rgb(44,62,80);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 20px 10%;
+}
+
+.main-header .title {
+    display: inline;
+}
+
+.main-header .navigator {
+    display: inline;
+}
+
+.main-header a {
+    color: white;
+}
+
